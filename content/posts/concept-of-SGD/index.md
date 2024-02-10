@@ -17,19 +17,20 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*F5dtoZH64zdDTQrd"
+    image: "https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/concept-of-SGD/images/sgd.webp"
     alt: "SGD"
     caption: "این عکس با هوش مصنوعی تولید شده :)" 
-    relative: false
-    hidden: true
+    relative: true
+    hidden: false
 # editPost:
 #     URL: "https://github.com/hasanisaeed/hasanisaeed.github.io/blob/main/content"
 #     Text: "پیشنهاد ویرایش 🤗"
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-![sgd](https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/concept-of-SGD/images/sgd.webp)
-
+<img src="https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/concept-of-SGD/images/sgd.webp" width="600px" height="300px" /><br/>
+<p style="text-align:center;">این عکس با هوش مصنوعی ساخته شده!</p>
+<hr/>
 ## قسمت اول: درک مفاهیم پایه
 ### مفهوم گرادیان کاهشی
 ### مفهوم 'تصادفی' در گرادیان کاهشی تصادفی
