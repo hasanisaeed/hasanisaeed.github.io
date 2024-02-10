@@ -28,7 +28,7 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 ![SGD](https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/concept-of-SGD/images/sgd.webp#center)
-<hr/>
+
 ### قسمت اول: درک مفاهیم پایه
 #### مفهوم گرادیان کاهشی
 #### مفهوم 'تصادفی' در گرادیان کاهشی تصادفی
