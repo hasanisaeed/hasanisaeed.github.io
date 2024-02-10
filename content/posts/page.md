@@ -4,7 +4,7 @@ date: 2020-09-15T11:30:03+00:00
 tags: ["اولین پست"]
 author: "سعید"
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 comments: true
@@ -13,7 +13,7 @@ hideSummary: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
