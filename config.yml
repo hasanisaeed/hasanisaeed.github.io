@@ -78,7 +78,7 @@ params:
   homeInfoParams:
     Title: "نگه کن به جایی که دانش بود..." 
     Content: >
-        "وبلاگ شخصی"
+        وبلاگ شخصی
 
   socialIcons:
     - name: twitter
