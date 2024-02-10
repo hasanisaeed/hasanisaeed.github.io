@@ -7,7 +7,7 @@ showToc: false
 TocOpen: true
 draft: false
 hidemeta: false
-comments: true
+comments: false
 description: "گرادیان کاهشی تصادفی"
 hideSummary: false
 ShowReadingTime: true
