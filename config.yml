@@ -44,6 +44,7 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+  math: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -121,12 +122,19 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
-
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
 permalinks:
 # https://gohugo.io/content-management/urls/
     posts: "/:filename/"
