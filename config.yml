@@ -62,16 +62,16 @@ params:
   # profile-mode
   profileMode:
     enabled: true
-    title: "داستان سرایی هایی یک برنامه نویس"
+    title: "خطوط زندگی: دلنوشته‌های یک برنامه‌نویس"
     subtitle: "نگه کن به جایی که دانش بود..."
     imageUrl: "https://avatars.githubusercontent.com/u/20496196?v=4"
     imageWidth: 120
     imageHeight: 120
     imageTitle: تصویر من
     buttons:
-      - name: دلنوشته ها
+      - name: دلنوشته‌ها
         url: posts
-      - name: دسته بندی ها
+      - name: موضوعات
         url: fatags
 
   # home-info mode
