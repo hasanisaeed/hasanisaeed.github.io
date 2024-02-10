@@ -152,11 +152,11 @@ languages:
           category: categories
           tag: fatags
           series: series
-    en:
-        languageName: "english"
-        weight: 2
-        languagedirection: ltr
-        taxonomies:
-          category: categories
-          tag: tags
-          series: series
+    # en:
+    #     languageName: "english"
+    #     weight: 2
+    #     languagedirection: ltr
+    #     taxonomies:
+    #       category: categories
+    #       tag: tags
+    #       series: series
