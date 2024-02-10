@@ -2,7 +2,7 @@ baseURL: https://hasanisaeed.github.io
 languageCode: 'fa'
 defaultContentLanguage: 'fa'
 title: 'یک قالب وبلاگ'
-theme: "hugo-PaperMod"
+theme: "PaperMod"
 paginate: 5
 
 enableRobotsTXT: true
