@@ -1,14 +1,14 @@
 ---
-title: "اولین پست من"
+title: "سلام"
 date: 2020-09-15T11:30:03+00:00
 tags: ["اولین پست"]
-author: "امیر"
+author: "سعید"
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "توضیح این پست"
+description: "پشت پرده ریاضیات هوش مصنوعی"
 hideSummary: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
@@ -27,4 +27,4 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-تست فایل های من
+به زودی ...
