@@ -2,8 +2,8 @@
 title: "سلام"
 date: 2020-09-15T11:30:03+00:00
 tags: ["اولین پست"]
-author: "سعید"
-showToc: true
+author: "سعید حسنی"
+showToc: false
 TocOpen: true
 draft: false
 hidemeta: false
