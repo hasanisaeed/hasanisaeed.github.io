@@ -27,11 +27,8 @@ cover:
 #     Text: "پیشنهاد ویرایش 🤗"
 #     appendFilePath: true # to append file path to Edit link
 ---
-
-<img src="https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/concept-of-SGD/images/sgd.webp" width="600px" height="300px" /><br/>
-<p style="text-align:center;">این عکس با هوش مصنوعی ساخته شده!</p>
+![SGD](https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/concept-of-SGD/images/sgd.webp#center)
 <hr/>
-
 ### قسمت اول: درک مفاهیم پایه
 #### مفهوم گرادیان کاهشی
 #### مفهوم 'تصادفی' در گرادیان کاهشی تصادفی
