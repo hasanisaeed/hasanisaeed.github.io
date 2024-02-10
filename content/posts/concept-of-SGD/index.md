@@ -49,7 +49,7 @@ cover:
 - قدم دوم: انتخاب تصادفی
 - قدم سوم: محاسبه گرادیان یا همون شیب
   
-$g_t$: $$g_t = \nabla_\theta f_t(\theta_{t-1})$$
+$$g_t = \nabla_\theta f_t(\theta_{t-1})$$
 
 $$C_p[\ce{H2O(l)}] = \pu{75.3 J // mol K}$$
 
