@@ -81,8 +81,6 @@ params:
         وبلاگ شخصی
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/s_hb92"
     - name: linkedin
       url: "https://www.linkedin.com/in/hasanisaeed/"
     - name: github
@@ -150,6 +148,14 @@ languages:
         languageName: "farsi"
         weight: 1
         languagedirection: rtl
+        taxonomies:
+          category: categories
+          tag: fatags
+          series: series
+    en:
+        languageName: "english"
+        weight: 1
+        languagedirection: ltr
         taxonomies:
           category: categories
           tag: fatags
