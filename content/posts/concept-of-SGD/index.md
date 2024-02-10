@@ -17,7 +17,7 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/concept-of-SGD/images/sgd.webp"
+    image: "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*F5dtoZH64zdDTQrd"
     alt: "SGD"
     caption: "این عکس با هوش مصنوعی تولید شده :)" 
     relative: false
@@ -28,7 +28,7 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-[sgd](https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/concept-of-SGD/images/sgd.webp)
+![sgd](https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/concept-of-SGD/images/sgd.webp)
 
 ## قسمت اول: درک مفاهیم پایه
 ### مفهوم گرادیان کاهشی
