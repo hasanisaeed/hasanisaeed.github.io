@@ -8,7 +8,7 @@ TocOpen: true
 draft: false
 hidemeta: false
 comments: true
-description: "گرادیان کاهش نزولی"
+description: "گرادیان کاهشی تصادفی"
 hideSummary: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
@@ -29,11 +29,11 @@ cover:
 ---
 ### فهرست مطالب:
 - **1: درک مفاهیم پایه**
-  - 1.1: درک جوهر کاهش گرادیان
+  - 1.1: مفهوم گرادیان کاهشی
   - 1.2: مفهوم 'تصادفی' در گرادیان کاهشی تصادفی
 - **2: ریاضیات SGD**
   - 2.1: نگاه عمیق‌تر به الگوریتم
-  - 2.2: درک مفهموم نرخ یادگیری
+  - 2.2: درک مفهوم نرخ یادگیری
 - **3: در عمل SGD**
   - 3.1: پیاده‌سازی SGD در مدل‌های یادگیری ماشین
   - 3.2: پیاده‌سازی SGD در Sci-kit Learn و Tensorflow
