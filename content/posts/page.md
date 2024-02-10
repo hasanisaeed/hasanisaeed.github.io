@@ -24,7 +24,7 @@ cover:
     hidden: true # only hide on current single page
 editPost:
     URL: "https://github.com/hasanisaeed.github.io/content"
-    Text: "ویرایش کنید" # edit text
+    Text: "پیشنهاد ویرایش 🤗"
     appendFilePath: true # to append file path to Edit link
 ---
 به زودی ...
