@@ -17,7 +17,7 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "./images/photo_2023-12-01_11-51-24.jpg" # image path/url
+    image: "https://github.com/hasanisaeed/hasanisaeed.github.io/blob/main/content/posts/about-me/images/photo_2023-12-01_11-51-24.jpg" # image path/url
     alt: "Saeed" # alt text
     caption: "این عکس رو توی حیاط خونه مون گرفتم." # display caption under cover
     relative: false # when using page bundles set this to true
