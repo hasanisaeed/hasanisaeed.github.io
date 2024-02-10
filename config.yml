@@ -76,9 +76,9 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: Saeed 
+    Title: "نگه کن به جایی که دانش بود..." 
     Content: >
-        Personal Blog
+        "وبلاگ شخصی"
 
   socialIcons:
     - name: twitter
