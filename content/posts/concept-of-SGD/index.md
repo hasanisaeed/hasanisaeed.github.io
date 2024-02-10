@@ -17,7 +17,7 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "./images/sgd.webp"
+    image: "https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/concept-of-SGD/images/sgd.webp"
     alt: "SGD"
     caption: "این عکس با هوش مصنوعی تولید شده :)" 
     relative: false
@@ -28,20 +28,27 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-### فهرست مطالب:
-- **1: درک مفاهیم پایه**
-  - 1.1: مفهوم گرادیان کاهشی
-  - 1.2: مفهوم 'تصادفی' در گرادیان کاهشی تصادفی
-- **2: ریاضیات SGD**
-  - 2.1: نگاه عمیق‌تر به الگوریتم
-  - 2.2: درک مفهوم نرخ یادگیری
-- **3: در عمل SGD**
-  - 3.1: پیاده‌سازی SGD در مدل‌های یادگیری ماشین
-  - 3.2: پیاده‌سازی SGD در Sci-kit Learn و Tensorflow
-- **4: مزایا و چالش‌ها**
-  - 4.1: چرا SGD رو انتخاب کنیم؟
-  - 4.2: غلبه بر چالش‌های مرتبط با SGD
-- **5: فراتر از مفاهیم پایه SGD**
-  - 5.1: انواع مختلف SGD
-  - 5.2: آینده‌ی SGD
-- **نتیجه‌گیری**
+[sgd](https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/concept-of-SGD/images/sgd.webp)
+
+## قسمت اول: درک مفاهیم پایه
+### مفهوم گرادیان کاهشی
+### مفهوم 'تصادفی' در گرادیان کاهشی تصادفی
+
+## قسمت دوم: ریاضیات پشت پرده SGD
+### نگاه عمیق‌تر به الگوریتم
+### درک مفهوم نرخ یادگیری
+
+## قسمت سوم: بریم سمت کدنویسی SGD
+### پیاده‌سازی SGD در مدل‌های یادگیری ماشین
+### پیاده‌سازی SGD در Sci-kit Learn و Tensorflow
+
+## قسمت چهارم: مزایا و چالشهای SGD
+### چرا SGD رو انتخاب کنیم؟
+### غلبه بر چالش‌های مرتبط با SGD
+
+##  قسمت پنجم: یه کم فراتر از مفاهیم بریم
+
+### انواع مختلف SGD
+### آینده‌ی SGD
+
+## نتیجه گیری
