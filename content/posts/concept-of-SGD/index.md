@@ -24,7 +24,7 @@ cover:
     hidden: false
 # editPost:
 #     URL: "https://github.com/hasanisaeed/hasanisaeed.github.io/blob/main/content"
-#     Text: "پیشنهاد ویرایش 🤗"
+#     Text: "متن رو ویرایش کن 🤗"
 #     appendFilePath: true # to append file path to Edit link
 ---
 ![SGD](https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/concept-of-SGD/images/sgd.webp#center)
