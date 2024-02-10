@@ -63,16 +63,16 @@ params:
   profileMode:
     enabled: true
     title: "داستان سرایی هایی یک برنامه نویس"
-    subtitle: "یه برنامه نویس خوشحال"
+    subtitle: "نگه کن به جایی که دانش بود..."
     imageUrl: "https://avatars.githubusercontent.com/u/20496196?v=4"
     imageWidth: 120
     imageHeight: 120
     imageTitle: تصویر من
     buttons:
-      - name: Posts
+      - name: دلنوشته ها
         url: posts
-      - name: Tags
-        url: tags
+      - name: دسته بندی ها
+        url: fatags
 
   # home-info mode
   homeInfoParams:
