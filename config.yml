@@ -76,9 +76,9 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: سلام سعید هستم
+    Title: Saeed 
     Content: >
-        بلاگ شخصی من...
+        Personal Blog
 
   socialIcons:
     - name: twitter
