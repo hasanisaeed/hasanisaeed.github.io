@@ -65,8 +65,8 @@ params:
     subtitle: "خطوط زندگی: نوشته‌های یک برنامه‌نویس"
     title: "نگه کن به جایی که دانش بود..."
     imageUrl: "https://avatars.githubusercontent.com/u/20496196?v=4"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 250
+    imageHeight: 250
     imageTitle: تصویر من
     buttons:
       - name: نوشته‌ها
