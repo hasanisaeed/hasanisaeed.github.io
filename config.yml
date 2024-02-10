@@ -61,13 +61,13 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
+    enabled: true
+    title: "داستان سرایی هایی یک برنامه نویس"
+    subtitle: "یه برنامه نویس خوشحال"
     imageUrl: "https://avatars.githubusercontent.com/u/20496196?v=4"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: تصویر من
     buttons:
       - name: Posts
         url: posts
