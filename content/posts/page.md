@@ -23,7 +23,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/hasanisaeed.github.io/content"
+    URL: "https://github.com/hasanisaeed/hasanisaeed.github.io/blob/main/content"
     Text: "پیشنهاد ویرایش 🤗"
     appendFilePath: true # to append file path to Edit link
 ---
