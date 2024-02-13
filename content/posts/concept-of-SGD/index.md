@@ -179,9 +179,10 @@ class SGDRegressor:
         return self.weights
 ```
 
-<details>
+
 </details>
 
+<details>
 <summary> کد پیاده سازی شده با C </summary>
 </details>
 
