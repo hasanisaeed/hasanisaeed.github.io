@@ -1,7 +1,7 @@
 ---
-title:  "به CallBack Function احترام بذاریم"
+title:  "پشت پرده ریاضیات بهینه ساز Adam"
 date: 2024-02-22T12:16:00+03:30
-tags: ["CallBack Functions", "کد تمیز", "برنامه نویسی"]
+tags: ["Adam Optimizer", "SGD", "هوش مصنوعی", "مفاهیم"]
 author: "سعید حسنی"
 showToc: false
 TocOpen: true
@@ -18,11 +18,11 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
     image: ""
-    alt: "Dependency Injection"
+    alt: "Adam Optimizer"
     caption: "این عکس با هوش مصنوعی تولید شده :)" 
     relative: true
     hidden: false
 ---
-![SGD](https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/respect-to-callback-function/images/callback_function.webp#center)
+![SGD](https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/adam-optimizer/images/adam_optimizer.webp#center)
 
 # به زودی
