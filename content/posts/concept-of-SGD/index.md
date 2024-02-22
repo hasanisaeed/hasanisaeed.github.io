@@ -29,6 +29,8 @@ cover:
 ---
 ![SGD](https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/concept-of-SGD/images/sgd.webp#center)
 
+# این متن هنوز در حال تکمیل هست. وقتی کامل بشه، برچسب تکمیل شده بهش میزنم.
+
 ### قسمت اول: درک مفاهیم پایه
 #### گرادیان نزولی چیه؟
 تصور کنید که شما بالا یه کوه قرار گرفتین و هدف تون این هست که میخواین به پایین ترین نقطه دست پیدا کنین. اینجاست که:
