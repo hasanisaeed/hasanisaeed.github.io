@@ -21,7 +21,7 @@ cover:
     alt: "SGD"
     caption: "این عکس با هوش مصنوعی تولید شده :)" 
     relative: true
-    hidden: false
+    hidden: true
 # editPost:
 #     URL: "https://github.com/hasanisaeed/hasanisaeed.github.io/blob/main/content"
 #     Text: "متن رو ویرایش کن 🤗"
