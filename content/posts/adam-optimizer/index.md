@@ -21,7 +21,7 @@ cover:
     alt: "Adam Optimizer"
     caption: "این عکس با هوش مصنوعی تولید شده :)" 
     relative: true
-    hidden: false
+    hidden: true
 ---
 ![SGD](https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/adam-optimizer/images/adam_optimizer.webp#center)
 
