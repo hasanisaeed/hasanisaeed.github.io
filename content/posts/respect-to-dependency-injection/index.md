@@ -21,7 +21,7 @@ cover:
     alt: "Dependency Injection"
     caption: "این عکس با هوش مصنوعی تولید شده :)" 
     relative: true
-    hidden: false
+    hidden: true
 ---
 ![SGD](https://raw.githubusercontent.com/hasanisaeed/hasanisaeed.github.io/main/content/posts/respect-to-dependency-injection/images/dependency_injection.webp#center)
 
